@@ -1,0 +1,8 @@
+{
+  "name": "bilgeli-book-seller-ui",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
